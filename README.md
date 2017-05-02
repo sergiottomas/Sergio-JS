@@ -1,6 +1,7 @@
 # Sergio-JS
-Biblioteca simples com algumas funcionalidades úteis para o dia dia do seu projeto, funciona na maioria dos browsers inclusive o IE8.
-Não testado no Firefox nem no Opera.
+Biblioteca simples com algumas funcionalidades úteis para o dia dia de um projeto sem frameworks, funciona na maioria dos browsers inclusive o IE8.
+
+OBS: Não testado no Firefox nem no Opera.
 
 Veja os rescursos disponíveis que você pode usar:
 
