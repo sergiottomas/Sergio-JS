@@ -1,10 +1,10 @@
 # Sergio-JS
-Biblioteca simples com algumas funcionalidades úteis para o dia dia do seu projeto, além de ser Cross-Browser com compatibilidade com 
-IE8.
+Biblioteca simples com algumas funcionalidades úteis para o dia dia do seu projeto, funciona na maioria dos browsers inclusive o IE8.
+Não testado no Firefox nem no Opera.
 
 Veja os rescursos disponíveis que você pode usar:
 
-xhr
+## xhr
 Possui varias operações AJAX para sua aplicação veja elas listadas abaixo
 
 - get(url: string, successcallback: Function, paramaters: Object) - Realiza operações 
@@ -15,7 +15,7 @@ Parametros possíveis:
 - onnotfound (callback: function): Execute uma função caso aconteça um timeout na requisição.
 - xmlToJson (convertToJSON: Boolean): Converte uma resposta XML em JSON.
 
-jsonXML
+## jsonXML
 
 Converte XML em JSON ou vise-versa
 
@@ -23,7 +23,7 @@ Converte XML em JSON ou vise-versa
 - parse(xml): Converte XML em JSON
 
 
-Funções simples
+## Funções simples
 
 ArrContains(arrayToSearch: array, term: string | numeric) : Procura um termo dentro de um Array
 ObjArrContains(array, key: string, term: string | numeric) : Procura um objeto dentro de um array
