@@ -23,6 +23,23 @@ Converte XML em JSON ou vise-versa
 - toXML(jsonData): Converte JSON em XML
 - parse(xml): Converte XML em JSON
 
+## masks
+
+Provê uma série de máscaras feitas com expressões regulares simples.
+Abaixo uma lista delas:
+- cpf
+- tel
+- number
+- coin
+- date
+- rg
+- cep
+
+Como usar?
+
+Para usar utilize os eventos de teclado em seu input HTML e chame a função da seguinte forma:
+
+<input type="text" onkeypress="Helper.masks().cpf(this);"/>
 
 ## Funções simples
 
