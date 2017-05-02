@@ -38,8 +38,10 @@ Abaixo uma lista delas:
 Como usar?
 
 Para usar utilize os eventos de teclado em seu input HTML e chame a função da seguinte forma:
-
+```html
 <input type="text" onkeypress="Helper.masks().cpf(this);"/>
+```
+
 
 ## Funções simples
 
