@@ -645,6 +645,7 @@ var Helper = (function (document) {
         charConvert: component.charConvert,
         selectElementText: component.selectElementText,
         getDataType: component.getDataType,
-        jsonXML: component.jsonXML
+        jsonXML: component.jsonXML,
+        masks: component.masks
     };
 })(document);
