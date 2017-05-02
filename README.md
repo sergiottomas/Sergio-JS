@@ -8,7 +8,7 @@ Veja os rescursos disponíveis que você pode usar:
 ## xhr
 Possui varias operações AJAX para sua aplicação veja elas listadas abaixo
 
-- get(url: string, successcallback: Function, paramaters: Object) - Realiza operações 
+- get(url: string, successcallback: Function, paramaters: Object) - Realiza operações get
 - post(url: string, data: string | Object, callback: Function, paramaters: Object) - Realiza operações de post
 - upload(url: string, data: string | Object, callback: Function, paramaters: Object) - Realiza operações de UPLOAD de arquivo via AJAX. 
 
