@@ -25,6 +25,8 @@ Converte XML em JSON ou vise-versa
 
 ## Funções simples
 
-ArrContains(arrayToSearch: array, term: string | numeric) : Procura um termo dentro de um Array
-ObjArrContains(array, key: string, term: string | numeric) : Procura um objeto dentro de um array
-getDataType(data: string) : Converte uma string em um tipo de dado
+- ArrContains(arrayToSearch: array, term: string | numeric) : Procura um termo dentro de um Array.
+
+- ObjArrContains(array, key: string, term: string | numeric) : Procura um objeto dentro de um array.
+
+- getDataType(data: string) : Converte uma string em um tipo de dado.
